@@ -1,0 +1,88 @@
+﻿body {
+    background-color: silver;
+    color: #14710d;
+}
+#focim h1
+{
+    text-align:center;
+    margin-top:10%;
+    margin-bottom:1%;
+    font-size:50px;
+    
+}
+h3
+{
+color:#16630e;
+
+font-weight:bold;
+}
+span
+{
+  color: red;
+}
+#gambfels li
+{
+   
+}
+p
+{
+   
+}
+img
+{
+ margin:revert;
+}
+hr
+{
+width:80%;
+
+margin:0 auto;
+margin-top:20px;
+margin-bottom:20px;
+}
+.container
+{
+    background-color:#b4edd9;
+    
+    padding:10px;
+}
+#menu 
+{
+   border:5px solid aquamarine;
+   border-radius:10px;
+   background-color: darkgreen;
+}
+.navbar-brand 
+{
+    color: aquamarine;
+}
+.navbar-brand:hover
+{
+
+    background-color: aquamarine;
+    font-style: italic;
+    font-weight:bold;
+}
+.nav-link
+{
+    color: aquamarine;
+    background-color: darkgreen;
+}
+    .nav-link:hover 
+    {
+
+        background-color: aquamarine;
+        font-style: italic;
+        border-radius:10px;
+    }
+.card {
+    background-color: #f2ffe3;
+}
+.btn-secondary
+{
+    background-color: #2bb461;
+}
+--bs-border-color
+{
+    color:red;
+}
